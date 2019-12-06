@@ -1,4 +1,4 @@
-package comhwangshuai.niodemo;
+package com.wangshuai.niodemo;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
